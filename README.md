@@ -1,8 +1,3 @@
-Absolutely. Based on your **actual GitHub folder structure**, I’d use a professional README that looks good for both **GitHub visitors and recruiters**, while keeping the project focused on Power BI, Excel, Power Query and DAX.
-
-Copy everything below directly into your `README.md`.
-
-````markdown
 # Profitability Analysis - Power BI Dashboard
 
 ## Business Intelligence | Data Analytics | Power BI
@@ -731,3 +726,4 @@ I would use this as your **GitHub Description**:
 
 This is clean, professional, and matches the actual tools/files visible in your repository.
 ```
+###
